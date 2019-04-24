@@ -11,6 +11,9 @@
 - Spring batch x.x
 - Thymeleaf? ReactJS?
 
+# Server Hosting
+- https://www.cloudv.kr/server/metaserver.html 32.000w
+
 # 기능
 1. 연도별 이름 순위
 2. 이름 찾기
