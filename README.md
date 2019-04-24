@@ -45,6 +45,16 @@
 # 정부 API
 - Uri: http://frrss.efamily.f.scourt.go.kr/ds/report/query.do
 - Method: POST
+- FormData Example
+```text
+pid: 1801
+uid: 999999
+dsid: 1261
+dstype: DS
+mapid: bf62187f-c964-4047-89fd-99015b051a5e
+sqlid: 1801-0
+params: {"@MultiCandType":{"value":["YY"],"type":"STRING","defaultValue":""},"@MultiCandStDt":{"value":["2019"],"type":"STRING","defaultValue":""},"@MultiCandEdDt":{"value":["2019"],"type":"STRING","defaultValue":""},"@SidoCd":{"value":["11"],"type":"STRING","defaultValue":"[All]","whereClause":"C.SIDO_CD"},"@CggCd":{"value":["_EMPTY_VALUE_"],"type":"STRING","defaultValue":"[All]","whereClause":"D.CGG_CD"},"@UmdCd":{"value":["_EMPTY_VALUE_"],"type":"STRING","defaultValue":"[All]","whereClause":"E.UMD_CD"}}
+```
 
 ### API 리스트
 - 출생 현황
