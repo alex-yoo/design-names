@@ -36,11 +36,14 @@
 
 
 # Todo
-- 프로젝트 패키지 설계
-- 스키마 설계
-- 크롤링 설계(배치)
-- View에서 사용할 통계 plugin 써치
-- View 레이아웃 구조 고민
+- (아서) 프로젝트 패키지 설계 및 구축(Spring Boot)
+- (전체) 스키마 설계(Mysql)
+- (루디) 크롤링 설계(Spring Batch)
+- (루디) CentOS 최적화 셋팅(Linux)
+- (에이든) ES 구축 및 설계(ElasticSearch)
+- (에이든) View에서 사용할 통계 plugin 써치(openLibrary Search)
+- (전체) View 레이아웃 구조 고민
+- ...
 
 # 정부 API
 - Uri: http://frrss.efamily.f.scourt.go.kr/ds/report/query.do
@@ -96,3 +99,7 @@ params: {"@MultiCandType":{"value":["YY"],"type":"STRING","defaultValue":""},"@M
 - 부부의 연령 차이 현황
 - 가족관계등록부상 성씨 현황
 
+# Site Option Plugin (시간날때)
+- google adsense
+- google analytics
+- google search
