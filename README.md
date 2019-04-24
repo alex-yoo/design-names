@@ -8,7 +8,7 @@
 # Tech Stack
 - Spring boot 2.1.x
 - ElasticSearch 6.6.x
-- Spring batch x.x
+- Spring batch 4.1.x
 - Thymeleaf? ReactJS?
 
 # Server Hosting
