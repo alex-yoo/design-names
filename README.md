@@ -8,6 +8,10 @@
 # Tech Stack
 - Java v1.8
 - Spring boot 2.1.x
+- JPA
+- Mysql
+- Actuator
+- Gradle 4.10
 - ElasticSearch 6.6.x
 - Spring batch 4.1.x
 - Thymeleaf? ReactJS?
