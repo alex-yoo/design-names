@@ -17,6 +17,14 @@
 ![Alt text](https://monosnap.com/image/RQ5gNvIALyPshV4Q1kdW9TVC4lSEBp.png)
 
 # Domain
+- nameis
+- artnam
+- designname
+- namedesign
+- beautifulname
+- createname
+- nameing
+- whatname
 ![Alt text](https://monosnap.com/image/SxnWJroTnAuR1gzH2P9wJf3GIiandy.png)
 
 # 기능
