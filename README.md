@@ -6,6 +6,7 @@
     - https://themeforest.net/item/oficiona-job-board-html-template/23042674?s_rank=1
 
 # Tech Stack
+- Java v1.8
 - Spring boot 2.1.x
 - ElasticSearch 6.6.x
 - Spring batch 4.1.x
