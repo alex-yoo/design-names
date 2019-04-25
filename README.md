@@ -16,6 +16,9 @@
 - https://www.cloudv.kr/server/metaserver.html 32.000w
 ![Alt text](https://monosnap.com/image/RQ5gNvIALyPshV4Q1kdW9TVC4lSEBp.png)
 
+# Domain
+![Alt text](https://monosnap.com/image/SxnWJroTnAuR1gzH2P9wJf3GIiandy.png)
+
 # 기능
 1. 연도별 이름 순위
 2. 이름 찾기
